@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shawn-yin128 a master student at NYU
-- 👀 I’m interested in combination of finance and computer science
-- 🌱 I’m currently learning Financial Engineering and look forward to get a PhD in DS
+- 👀 I’m interested in software and data science
+- 🌱 I’m currently learning Financial Engineering and look forward to find a SDE job
 
 <!---
 shawn-yin128/shawn-yin128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
