@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shawn-yin128 a master student at NYU
-- 👀 I’m interested in software and data science
-- 🔥 I program with Java, Python, Go, SQL, C++, JavaScript. Sometimes I do data science with Python, R and MATLAB.
+- 👋 Hi, I’m @shawn-yin128 a current Master of Computer Science student at NYU Courant, with concentration on Artificial Intelligence.
+- 👀 I hold Master's degree of Financial Engineering (NYU Tandon), and has been experienced Software Developer and Big Data Engineer in FinTech industry.
+- 🔥 I also have sufficient knowledge in Finance and have passed CFA level 1 test.
 
 <!---
 shawn-yin128/shawn-yin128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
